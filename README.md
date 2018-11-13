@@ -1,6 +1,18 @@
 # spring-jdbc-mariadb-batch
 
+##### Spring Boot Project 생성 환경설정
+```
+STS >> New >> Spring Starter Project
 
+Project Name : spring-jdbc-3
+Type : Maven
+Packaging : Jar
+Java : 8
+Package : com.example.demo
+Spring Boot Version : 2.0.6
+
+Project Dependencies : Web, Lombok, JDBC, MySQL
+```
 
 ##### 1. database 먼저 생성하기
 ```
