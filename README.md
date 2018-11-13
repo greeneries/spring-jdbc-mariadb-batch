@@ -9,7 +9,8 @@ Type : Maven
 Packaging : Jar
 Java : 8
 Package : com.example.demo
-Spring Boot Version : 2.0.6
+
+Spring Boot Version : 2.0.6.RELEASE
 
 Project Dependencies : Web, Lombok, JDBC, MySQL
 ```
